@@ -4,6 +4,8 @@ Una **skill per [Claude Code](https://claude.com/claude-code)** che impone una s
 
 > 🇬🇧 English version: [multi-session-project-docs](https://github.com/Liquidflow-configurator/multi-session-project-docs) — stesso contenuto, in inglese.
 
+📺 **[Guarda la presentazione in video](https://youtu.be/eWo0PfzuJoU)** (8 minuti, in italiano) — panoramica dei quattro file, delle regole e del metodo per riordinare un progetto già caotico.
+
 ## Il problema
 
 Un progetto che dura settimane o mesi vive su decine di chat diverse. Ogni chat nuova riparte da zero: l'assistente non ricorda le decisioni prese, il contesto va perso e la documentazione cresce disordinata — un `NOTES.md` qui, un `TODO.txt` là, un README che nessuno aggiorna.
