@@ -36,8 +36,18 @@ Questa skill non è un automatismo: è un insieme di istruzioni che l'assistente
 
 ## Installazione
 
+Come plugin (consigliato), da dentro Claude Code:
+
+```
+/plugin marketplace add Liquidflow-configurator/gestione-progetti-multi-sessione
+/plugin install gestione-progetti-multi-sessione@gestione-progetti-multi-sessione
+```
+
+Oppure a mano, come skill semplice:
+
 ```bash
-git clone https://github.com/Liquidflow-configurator/gestione-progetti-multi-sessione.git ~/.claude/skills/gestione-progetti-multi-sessione
+git clone https://github.com/Liquidflow-configurator/gestione-progetti-multi-sessione.git /tmp/gpms
+cp -r /tmp/gpms/skills/gestione-progetti-multi-sessione ~/.claude/skills/
 ```
 
 Riavvia Claude Code. La skill si attiva da sola quando riconosce un progetto multi-sessione o una documentazione disordinata, oppure la richiami a mano con `/gestione-progetti-multi-sessione`.

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "gestione-progetti-multi-sessione",
+  "description": "Struttura di documentazione a 4 file per progetti che durano piu sessioni di chat (versione italiana).",
+  "owner": {
+    "name": "Liquidflow-configurator"
+  },
+  "plugins": [
+    {
+      "name": "gestione-progetti-multi-sessione",
+      "description": "Impone una struttura standard di 4 file di documentazione — CLAUDE.md, AGENTS.md, summary_for_new_chat.md, README.md — ai progetti che durano piu sessioni, cosi una chat nuova parte dalle decisioni gia prese invece che da zero.",
+      "source": "./",
+      "category": "documentation",
+      "keywords": ["documentazione", "claude-md", "agents-md", "context-engineering", "italiano"]
+    }
+  ]
+}

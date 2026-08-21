@@ -1,0 +1,18 @@
+{
+  "name": "gestione-progetti-multi-sessione",
+  "version": "1.0.0",
+  "description": "Struttura di documentazione a 4 file per progetti che durano piu sessioni di chat: CLAUDE.md (comportamento), AGENTS.md (regole stabili e trappole note), summary_for_new_chat.md (diario datato, solo in aggiunta), README.md (presentazione esterna). Tiene solo la meta dei file di contesto che la ricerca mostra essere davvero seguita dagli agenti: le istruzioni, non le panoramiche del repository. Versione italiana.",
+  "author": {
+    "name": "Liquidflow-configurator"
+  },
+  "homepage": "https://github.com/Liquidflow-configurator/gestione-progetti-multi-sessione",
+  "keywords": [
+    "documentazione",
+    "documentation",
+    "claude-md",
+    "agents-md",
+    "context-engineering",
+    "multi-sessione",
+    "italiano"
+  ]
+}
